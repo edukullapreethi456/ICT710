@@ -10,3 +10,7 @@ I intend to optimize the dashboard layout and streamline the navigation menu bas
 student-3 Varshini koyyalamudi
 
 I will responsible to create a design rationale and usability work. We discovered the problems with transaction confusion and navigation difficulty based on user input. I will evaluate these results and provide suggestions to raise user satisfaction and accessibility.
+
+student-4 Rasagna Karingula
+
+I will work on the application visual image and user interface design, I intend to enhance colour consistency, typography, and visual hierarchy to make easier for the users to recognize crucial financial information as stock prices, and buy/sell actions.
