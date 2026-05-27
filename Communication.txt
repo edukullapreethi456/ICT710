@@ -6,3 +6,7 @@ Student-2 Saikiran Bitla
 
 I will concentrate on using Figma tool to create the wireframes and prototype design.
 I intend to optimize the dashboard layout and streamline the navigation menu based on the findings of the usability testing to make trading functions easier for users. 
+
+student-3 Varshini koyyalamudi
+
+I will responsible to create a design rationale and usability work. We discovered the problems with transaction confusion and navigation difficulty based on user input. I will evaluate these results and provide suggestions to raise user satisfaction and accessibility.
