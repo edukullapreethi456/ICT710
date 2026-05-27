@@ -2,3 +2,7 @@ Student-1 Preethi Edukulla
 
 Hi, our main objective is to improve the usability, navigation, and security features of the trading mobile application. 
 I will organize the project task and ensure that I finish each phase on schedule. We should communicate our progress and provide input on a frequent basis to enhance the finished design.
+Student-2 Saikiran Bitla
+
+I will concentrate on using Figma tool to create the wireframes and prototype design.
+I intend to optimize the dashboard layout and streamline the navigation menu based on the findings of the usability testing to make trading functions easier for users. 
